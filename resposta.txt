@@ -1,0 +1,93 @@
+1-
+mantém versões dos códigos
+facilita trabalhar em equipe
+é capaz de retornar á versões anteriores do código
+
+2-
+git é um sistema de versionamento de código
+github é um sistema que usa o git como base
+
+3-
+html - marcação semantica e construção dos documentos.
+css - serve para layout animação, interface.
+javascript - interatividade com a página.
+
+4-
+tag - os comandos da linguagem (palavras chaves)
+elemento - componentes de um documento html, composto pelas tags e o texto sendo marcado
+atributo - são as características dos elementos
+
+
+5- 
+<html>
+<head>
+<title>seila</title>
+<meta charset = "utf-8">
+<head>
+<body>
+<p>nao sei</p>
+<body>
+<html>
+
+6-uma estrutura organizada de camadas que define como os dados são transmitidos e recebidos
+
+7-TCP E UDP
+
+8-a)Servidor
+• sempre ‘no ar’
+• endereço IP permanente
+Clientes
+• comunicam-se com o servidor
+• podem ter conexões intermitentes
+• podem ter endereços IP dinâmicos
+• não se comunicam diretamente entre si
+
+b) os clientes se comunicam entre si, pois não tem um servidor central
+
+
+
+9-PROCESSO É UMA PROGRAMA RODANDO NO PC, identifique pelo numero da porta 
+
+10-SSL é camada de segurança
+
+11-total sao 2 elemento(head e body)
+
+12-<footer>-indica o rodape
+    <h1-h6>- criar 6 texto
+    <p>-paragrafo
+    <div>-conteiner generico
+    <span>-contem generico inline
+        
+13-<form>
+
+14-elemento <A>
+    
+15-<imput>
+   <button>
+   <select>
+   <label>
+   <fieldset>
+ 
+ 16- a) class-determina conjunto o elemento pertence
+ b) id-identificar univoco
+ c) name- atruibui um nome a um type bo formulario 
+ d) hidden-esconder o elemento que usuário nao precisa ver
+ e) style-um atributo  
+ f) title-colocar mais informações no um conteúdo
+
+17-é uma característica da web de perder elemento e ainda entregar informações
+
+18- regra-é uma estrudura composta por um seletor e um conjunto de declarações separada por ponto e virgula
+seletor- define os elemento que aplica a regra
+declaração- é uma formado por uma propriedade css e um valor
+
+19- seletor de classe é selecionar os elemento de um classe  e seletor de id é selecionar o elemento id
+
+20- padding-o espaço ao redor do conteúdo
+    border- a linha solida do lado de fora do padding
+    margin- o espaço externo a um elemento
+
+21-static- posicionamento padrão
+relative- movimentação em um relação a posição padrão
+absolute- retira o elemento do fluxo normal e o posiciona relativamento ao documento/asendente mais próximo
+fixed- retira o elemento do fluxo normal e o posiciona relativamente e viewport
